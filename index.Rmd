@@ -5,17 +5,12 @@ output:
     df_print: paged
 ---
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+# Kevin (Lingfeng) Li
 
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+**Hello!**
 
-```{r}
-plot(cars)
-```
+I am a student at the London School of Economics, studying for a MSc in Political Science & Political Economy. I am interested in using quantitative methods in my research, particularly statistical methods and new advances in statistical learning. I also have an interest in Game Theory.
 
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+I completed my BSc in Politics at King's College London, receiving a First Class Honours result (US equivalent: 3.8-4.0 GPA or Summa Cum Laude). During my degree, I also took summer courses in Data Science and Machine Learning at the London School of Economics during my undergraduate studies. Now, I am now a postgraduate student at the London School of Economics, studying for a MSc in Political Science & Political Economy.
 
-When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
-
-The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
-
+This is my personal website. I don't really have a purpose for this site, besides using it to post some of my accomplishments or what I find interesting!
