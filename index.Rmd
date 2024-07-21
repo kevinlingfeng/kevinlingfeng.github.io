@@ -1,11 +1,10 @@
 ---
-title: "R Notebook"
+title: "Kevin Lingfeng Li"
 output:
   html_document:
     df_print: paged
 ---
 
-# Kevin (Lingfeng) Li
 
 **Hello!**
 
